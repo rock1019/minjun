@@ -1,0 +1,31 @@
+#gallery{
+    font-size: 20px;
+}
+h1{
+    font-style: italic;
+}
+#v1{
+    position: relative;
+    left: 0px;
+    bottom: 0px;
+}
+#v2{
+    position: relative;
+    left: 250px;
+    bottom: 470px;
+}
+#v3{
+    position: relative;
+    left: 500px;
+    bottom: 940px;
+}
+#v4{
+    position: relative;
+    left: 750px;
+    bottom: 1370px;
+    font-style: italic;
+}
+html{
+    background-color: black;
+    color: white;
+}
